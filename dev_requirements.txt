@@ -1,0 +1,13 @@
+flake8
+black
+pytest
+hypothesis
+pytest-incremental
+sphinx
+sphinx-autodoc-typehints
+sphinx-needs
+mypy
+crosshair
+jupyter
+notebook
+git+https://github.com/amakelov/mandala
