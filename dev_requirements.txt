@@ -3,6 +3,7 @@ black
 pytest
 hypothesis
 pytest-incremental
+mimesis
 sphinx
 sphinx-autodoc-typehints
 sphinx-needs
